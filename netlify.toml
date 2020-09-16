@@ -8,9 +8,3 @@
 
 [context.deploy-preview]
   command = "npm run build:preview"
-  
-[[headers]]
-  for = "/*"
-  [headers.values]
-	cache-control = '''
-	max-age=14400'''
