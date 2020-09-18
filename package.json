@@ -1,4 +1,5 @@
 {
+  "homepage": ".",
   "name": "victor-hugo",
   "version": "1.0.0",
   "description": "Victor Hugo is a Hugo boilerplate for creating truly epic websites!",
